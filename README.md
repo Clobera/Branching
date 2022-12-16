@@ -1,7 +1,5 @@
 ## git cheatsheet
 
-
-
 ### basic commands
 * 'git init' - initialize local repo
 
@@ -17,3 +15,4 @@
 * 'git branch' - list local branches
 * 'git branch [insert branch name]' - create new local branch
 * 'git checkout [insert branch name]' - switch to branch named [insert branch name].
+* 'git checkout -b [insert branch name]' - create new branch and check it out at the same time.
